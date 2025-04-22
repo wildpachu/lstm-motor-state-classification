@@ -9,18 +9,17 @@ venv/
 git
 
 # Modelos entrenados
-models/
+models/*
+!models/.gitkeep
 
 # Archivos de configuración de editores
 .vscode/
 .idea/
 
 # Archivos de datos grandes
-data/
-*.csv
-*.json
+data/*
+!data/.gitkeep
 
 # Report
-reports/
-*.png
-*.pdf
+reports/*
+!reports/.gitkeep
