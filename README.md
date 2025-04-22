@@ -36,6 +36,15 @@ Make sure you have the following tools installed:
     ```bash
     pip install -r requirements.txt
     ```
+## Dataset Description
+
+This project uses the *University of Ottawa Electric Motor Dataset – Vibration and Acoustic Faults under Constant and Variable Speed Conditions (UOEMD-VAFCVS)*.
+
+### Citation
+
+To cite the dataset, use the following reference:
+
+Sehri, M., & Dumond, P. (2023). *University of Ottawa Electric Motor Dataset – Vibration and Acoustic Faults under Constant and Variable Speed Conditions (UOEMD-VAFCVS)* [Data set]. Mendeley Data, V1. Description available at: https://doi.org/10.17632/msxs4vj48g.1
 
 ## Usage 🚀
 
