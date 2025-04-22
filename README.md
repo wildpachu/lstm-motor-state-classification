@@ -11,12 +11,11 @@ The project workflow includes the following steps:
   
 ## Table of Contents 📚
 
-- [Installation](##installation)
-- [Usage](##usage)
-- [Training the Model](##training-the-model)
-- [Evaluation](##evaluation)
-- [Results](##results)
-- [License](##license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Training the Model](#model-training)
+- [Results](#results)
+- [License](#license)
 
 ## Installation 🛠️
 
