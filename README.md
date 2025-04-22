@@ -8,14 +8,6 @@ The project workflow includes the following steps:
 3. **Model Training 🤖**: Training the LSTM network to classify motor states.
 4. **Model Evaluation 📊**: Evaluating the model with test data to assess its performance.
 5. **Report Generation 📄**: Generating a PDF report with evaluation metrics, confusion matrix, and training performance plots.
-  
-## Table of Contents 📚
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Training the Model](#model-training)
-- [Results](#results)
-- [License](#license)
 
 ## Installation 🛠️
 
