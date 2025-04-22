@@ -1,0 +1,26 @@
+# Archivos temporales y de caché de Python
+*.pyc
+*.pyo
+__pycache__/
+*.pdb
+
+# Entorno virtual
+venv/
+git
+
+# Modelos entrenados
+models/
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+
+# Archivos de datos grandes
+data/
+*.csv
+*.json
+
+# Report
+reports/
+*.png
+*.pdf
