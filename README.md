@@ -36,7 +36,7 @@ Make sure you have the following tools installed:
     ```bash
     pip install -r requirements.txt
     ```
-## Dataset Description
+## Dataset Description 📙
 
 This project uses the *University of Ottawa Electric Motor Dataset – Vibration and Acoustic Faults under Constant and Variable Speed Conditions (UOEMD-VAFCVS)*.
 
